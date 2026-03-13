@@ -129,11 +129,3 @@ Its in milliseconds - 1000 Milliseconds = 1 Second
 
 </p>
 
-
-
-
-
-** 20        await delay(100);  **
-
-# WARNING - DO NOT CHANGE ANYTHING IN THE FIRST FUNCTION
-## This function controls the delay() and if messed with will result in the code not working!
